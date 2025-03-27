@@ -1,4 +1,5 @@
-# 🎮 Tic-Tac-Toe Dynamique 🎉 : https://taoufik05.github.io/Tic-Tac-Toe/
+# 🎮 Tic-Tac-Toe Dynamique 🎉 : 
+### https://taoufik05.github.io/Tic-Tac-Toe/
 
 Un jeu de Tic-Tac-Toe interactif en HTML, CSS et JavaScript, avec une règle spéciale :
 📌 Après 3 coups, les joueurs doivent déplacer une de leurs pièces au lieu d’en placer une nouvelle !
