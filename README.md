@@ -23,6 +23,12 @@ Un jeu de Tic-Tac-Toe interactif en HTML, CSS et JavaScript, avec une règle sp�
 
 ## [Tic-Tac-Toe](https://taoufik05.github.io/Tic-Tac-Toe.webp/)
 
+<p align="center">
+    <img src="https://github.com/TAOUFIK05/Tic-Tac-Toe/blob/main/Tic-Tac-Toe.webp " width='600' height="400" />
+</p>
+
+
+https://github.com/TAOUFIK05/Tic-Tac-Toe/blob/main/Tic-Tac-Toe.webp 
 #### 📥 Installation
 
 Aucune installation requise !
