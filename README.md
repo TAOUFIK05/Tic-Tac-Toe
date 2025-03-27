@@ -21,6 +21,8 @@ Un jeu de Tic-Tac-Toe interactif en HTML, CSS et JavaScript, avec une règle sp�
 
     Le premier à aligner 3 pièces consécutives gagne la partie ! 🎊
 
+## [Tic-Tac-Toe](https://taoufik05.github.io/Tic-Tac-Toe.webp/)
+
 #### 📥 Installation
 
 Aucune installation requise !
